@@ -19,4 +19,4 @@ Holaa, my name is Muhammad Kesya Sakha Adzikra, u can call me Sano. <br>
 
 
 # 📊 Github Stats
-![juhan26's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkesyasakha&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)
+![mkesyasakha GitHub stats](https://github-readme-stats.vercel.app/api?username=mkesyasakha&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)
